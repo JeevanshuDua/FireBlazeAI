@@ -1,0 +1,68 @@
+,,,,,
+Question,A,B,C,D,Answer
+"Which of the following methods do we use to find the best fit line for data in Linear Regression?	
+","Least Square Error
+","Maximum Likelihood
+","Logarithmic Loss
+","Both A and B
+",D
+,,,,,
+"Which of the following evaluation metrics can be used to evaluate a model while modeling a continuous output variable?	
+","AUC-ROC
+","Accuracy
+","Mean-Squared-Error
+","Sensitivity
+",C
+,,,,,
+"Suppose you plotted a scatter plot between the residuals and predicted values in linear regression and you found that there is a relationship between them. Which of the following conclusions do you make about this situation?	
+","Since the there is a relationship means our model is not good
+","Since the there is a relationship means our model is not good
+","Can’t say",None of These,A
+,,,,,
+"The process of constructing a mathematical model or function that can be used to predict or determine one variable by another variable is called	
+","Regression
+","Classification
+","Correlation
+","Outlier
+",A
+,,,,,
+"The difference between the actual Y value and the predicted Y value found using a regression equation is called the	
+","Slope
+","Residual Error
+",Outlier,"None of these
+",B
+,,,,,
+"The total of the squared residuals is called the	
+","Sum of squares of error
+","Coefficient of determination
+","Standard error of the estimate
+","R-squared
+",A
+,,,,,
+"In regression analysis, R2 score is also called the	
+","Residual
+","Coefficient of correlation
+","Coefficient of determination","Standard error of the estimate
+",B
+,,,,,
+"In regression analysis, the variable that is being predicted is;	
+","The independent variable
+","The dependent variable
+","Usually denoted by x
+","Usually denoted by r
+",B
+,,,,,
+,,,,,
+"If the slope of the regression equation y = bo + b1x is positive, then;	
+","As x increases so does y
+","As x increases y decreases
+","Either a or b is correct
+","As x decreases y increases
+",A
+,,,,,
+"Let’s say, a “Linear regression” model perfectly fits the training data (train error is zero). Now, Which of the following statements is true?	
+","You will always have test error zero
+","FALYou can not have test error zero
+SE","Both A and B
+","None of the above
+",D

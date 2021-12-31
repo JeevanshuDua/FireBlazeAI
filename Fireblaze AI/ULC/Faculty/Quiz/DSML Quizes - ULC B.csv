@@ -1,0 +1,20 @@
+,,,,,
+Question,A,B,C,D,Answer
+Clustering is a technique that groups similar objects such that the objects in the same group are more similar to each other than the objects in the other groups.,TRUE,FALSE,,,A
+,,,,,
+Hierarchical clustering involves creating clusters that have a predetermined ordering from ___,Top to Bottom.,Bottom to Top,Left to Right,Right to Left,A
+,,,,,
+Types of hierarchical clustering is :-,Divisive,Agglomerative,Both A and B,None of these,C
+,,,,,
+In agglomerative clustering follow the ____ approach.,Up-Bottom clustering,Only Bottom clustering,Bottom-Up clustering,None of these,C
+,,,,,
+"In complete linkage hierarchical clustering, the distance between two clusters is defined as the longest distance between two points in each cluster.",TRUE,FALSE,,,A
+,,,,,
+"In average linkage hierarchical clustering, the distance between two clusters is defined as the average distance between each point in _______ .",One cluster to every point in the other cluster,Only One cluster,One cluster to every point in the same cluster,All of these,A
+,,,,,
+Hierarchical clustering begins by treating every data points as a separate cluster.,TRUE,FALSE,,,A
+,,,,,
+Hierarchical clustering algorithms are either top-down or bottom-up.,TRUE,FALSE,,,A
+,,,,,
+,,,,,
+The y-coordinate of the horizontal line is the similarity of the _____ that were merged.,Two clusters,One clusters,Two data points,Two Features,A

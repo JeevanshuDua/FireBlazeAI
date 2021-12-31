@@ -1,0 +1,22 @@
+,,,,,
+Question,A,B,C,D,Answer
+Hierarchical clustering does not require a prespecified number of clusters.,TRUE,FALSE,Can’t say,May be possible,A
+,,,,,
+DBSCAN is that you don’t have to specify the number of clusters to use it,TRUE,FALSE,,,A
+,,,,,
+DBSCAN is _____ learning method.,Unsupervised,Supervised,Semi-Supervised,All of these,A
+,,,,,
+If there are at least ‘minPoint’ points within a radius of ‘?’ to the point then we consider all these points to be part of the same cluster.,TRUE,FALSE,,,A
+,,,,,
+Which parameters is used in DBSCAN algorithm?,minPts,eps(?),Both A and B,None of these, C
+,,,,,
+"All clustering methods, first we calculate similarities and then we use it to cluster the data points into groups or batches.",TRUE,FALSE,,,A
+,,,,,
+DBSCAN stands for _____,Density-based spatial clustering of applications with noise,Density-based special clustering of applications with noise,Density-based spatial clustering of applications with none,Density-based special clustering of annotation with noise,A
+,,,,,
+The DBSCAN algorithm is based on this intuitive notion of “clusters” and “noise”.,TRUE,FALSE,Can’t say,,A
+,,,,,
+,,,,,
+"Principal Component Analysis, is a dimensionality-reduction method that is often used to reduce the _____ of large data sets.",Dimensionality,Marginality,Linearity,Spherical,A
+,,,,,
+Principal Component Analysis is based on _______ .,Variance,Convariance,Eigen Vectors and Eigen values,All of these,D

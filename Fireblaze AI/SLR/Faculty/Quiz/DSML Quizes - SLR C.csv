@@ -1,0 +1,26 @@
+,,,,,
+Question,A,B,C,D,Answer
+"Which one is true about Heteroskedasticity?	
+","Linear Regression with varying error terms
+",Linear Regression with constant error terms,Linear Regression with zero error terms,None of these,A
+,,,,,
+"If two variables are correlated, is it necessary that they have a linear relationship?",Yes,No,,,B
+,,,,,
+Which of the following could be used as a test for autocorrelation up to third order?,The Durbin Watson Test,White’s Test,The RESET Test,The Breusch – Godfrey Test,D
+,,,,,
+Near multicollinearity occurs when,Two or more explanatory variables are prefectly correlated with one another.,The explanatory variables are highly correlated with error term,The explanatory variables are highly correlated with the independent variable,"Two or more explanatory variables are highly correlated with one another
+",D
+,,,,,
+The assumption that the variance of the residuals about the predicted dependent variable scores should be the same for all predicted scores reflects which assumption?,Homoscedasticity,"Multicollinearity
+",Normality,All of these,A
+,,,,,
+What is the purpose of a simple linear regression?,To predict scores on an independent variable from scores on multiple dependent variables,To predict scores on a dependent variable from scores on a single independent variable,To predict scores on an independent variable from scores on a single dependent variable,To predict scores on a dependent variable from scores on multiple independent variables,C
+,,,,,
+The correlation coefficient is used to determine:,A specific value of the y-variable given a specific value of the x-variable,A specific value of the x-variable given a specific value of the y-variable,The strength of the relationship between the x and y variables,All of the above,C
+,,,,,
+"In Correlation, both variables are always",Random,Non-Random,Same,None of these,A
+,,,,,
+,,,,,
+The Durbin-Watson statistic is used to test for,Multicollinearity,Autocorrelation,Heteroskedasticity,All of the above are correct,B
+,,,,,
+Why should we assume that relationships between variables are linear?,Because linear relationships are the simplest non-trivial relationships that can be imagined.,"Because the ""true"" relationships between our variables are often at least approximately linear over the range of values","Even if they're not, we can often transform the variables in such a way as to linearize the relationships.",All of these,D

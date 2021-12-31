@@ -1,0 +1,49 @@
+Sr.No,Question,Option,Answer
+1,Logistic regression is used to predict _________ valued output?,(A) Continuous,B
+,,,
+,,(B) Categorical,
+,,,
+,,,
+2,A Confusion matrix compares the actual target values.,(A) True,B
+,,,
+,,(B) False,
+,,,
+,,,
+3,Which of the following is link function in logistic regression,A) Identity,D
+,,B} Logit,
+,,C) Sigmoid,
+,,D) Both (B) & (C),
+,,,
+4,High entropy means that the partitions in classification are,A) Pure,B
+,,B} Not Pure,
+,,C) Useful,
+,,D) Useless,
+,,,
+5,"When performing regression or classification, which of the following is the correct way to preprocess the data?",A) Normalize the data → PCA → training,A
+,,B) PCA → normalize PCA output → training,
+,,C) Normalize the data → PCA → normalize PCA output → training,
+,,D) None of the above,
+,,,
+6,The most widely used metrics and tools to assess a classification model are:,A) Confusion matrix,D
+,,B) Cost-sensitive accuracy,
+,,C) Area under the ROC curve,
+,,D) All of the above,
+,,,
+7,F1 score is:,A) absolute mean of precision and recall,B
+,,B) harmonic mean of precision and recall,
+,,C) squared mean of precision and recall,
+,,,
+8,What is the precision value for following confusion matrix of binary classification?,A) 0.91,B
+,,B) 0.09,
+,,C) 0.9,
+,,D) 0.95,
+,,,
+9,"A set of data are all close to each other, but they are not close to the actual value.This set of data can be described as..",A)Accurate,B
+,,B) Precise,
+,,C) None of the above,
+,,D) Both Precise & Accurate,
+,,,
+10,Measurement Which is close to the true value,A) Accurate,A
+,,B) Average,
+,,C) Precise ,
+,,E) error,

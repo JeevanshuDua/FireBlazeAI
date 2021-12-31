@@ -1,0 +1,50 @@
+Question,A,B,C,D,Answer
+"In supervised learning which trains algorithms based on example _______ data that is labeled by humans.	
+",Input,"Output
+","Both A and B
+","Can’t Say",C
+,,,,,
+"A supervised learning they are able to learn by _______.	
+",Input,Output,Without Data,All of These,B
+,,,,,
+"Supervised learning therefore uses patterns to predict label values on additional _________.	
+","Labeled data
+","Unlabeled data
+","Both A and B
+",None of These,B
+,,,,,
+"The goal of unsupervised learning may be as straightforward as discovering ____ patterns within a dataset        
+","Hidden
+","Known
+","Can’t say
+","It can not be discovered
+",A
+,,,,,
+"Unsupervised learning methods can working on _______.	
+","Without data
+","Simple data
+","Complex data
+","All of these
+",C
+,,,,,
+"Regression at a basic level is used to examine the relationship between _______ variable.	
+","One dependent and one independent
+","Only dependent
+","Only independent",Can't Say,A
+,,,,,
+"Machine Learning algorithms enable the computers to learn from data, and even improve themselves, without being explicitly programmed.	
+",TRUE,False ,,,A
+,,,,,
+"How to identify this data set in supervised data?	
+","Know the class labels
+","Know the target variable
+","Know the output labels
+","All of these
+",D
+,,,,,
+,,,,,
+"When inputs are divided into two or more classes, called as_______.	
+",Classification,Regression ,Clustering,All of These,A
+,,,,,
+"Regression which is also a supervised problem in case when the outputs are continuous rather than discrete.	
+",TRUE,FALSE,,,A

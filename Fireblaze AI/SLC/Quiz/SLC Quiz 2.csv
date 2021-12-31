@@ -1,0 +1,62 @@
+Sr.No,Question,Option,Answer
+1,True-False: It is possible to construct a 2-NN classifier by using the 1-NN classifier?,(A) True,A
+,,,
+,,(B) False,
+,,,
+,,,
+2,k-NN algorithm does more computation on test time rather than train time.,(A) True,A
+,,,
+,,(B) False,
+,,,
+,,,
+3, Which of the following option is true about k-NN algorithm?,A) It can be used for classification,C
+,,B) It can be used for regression,
+,,C) It can be used in both classification and regression ,
+,,,
+,,,
+4, Which of the following machine learning algorithm can be used for imputing missing values of both categorical and continuous variables?,A) K-NN,A
+,,B) Linear Regression,
+,,C) Logistic Regression ,
+,,,
+5,Which of the following distance measure do we use in case of categorical variables in k-NN?                                                                                             1. Hamming Distance  2. Euclidean Distance 3. Manhattan Distance,A) 1,A
+,,B) 2,
+,,C) 3,
+,,D) 1 and 2,
+,,,
+6,Which of the following value of k in k-NN would minimize the leave one out cross validation accuracy?,A) 3,B
+,,B) 5,
+,,C) Both have same,
+,,D) None of these,
+,,,
+7,Which of the following statements is true for k-NN classifiers?,A) The classification accuracy is better with larger values of k,D
+,,B) The decision boundary is smoother with smaller values of k,
+,,C) The decision boundary is linear,
+,,D) k-NN does not require an explicit training step,
+,,,
+8,Which of the following would be the leave on out cross validation accuracy for k=5?,A) 2/14,D
+,,B) 4/14,
+,,C) 6/14,
+,,D) None of these,
+,,,
+9,Which of the following will be true about k in k-NN in terms of variance?,A) When you increase the k the variance will increases,B
+,,B) When you decrease the k the variance will increases,
+,,C) Can’t say,
+,,D) None of these,
+,,,
+10,When you find noise in data which of the following option would you consider in k-NN?,A) I will increase the value of k,A
+,,B) I will decrease the value of k,
+,,C) Noise can not be dependent on value of k,
+,,D) None of these,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,Solution: A,,
+,,,
+,Solution: D,,
+,A) 2/14,,
+,B) 4/14,,
+,C) 6/14,,
+,D) 8/14,,
